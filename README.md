@@ -1,8 +1,7 @@
 # 💫 About Me:
-Hiya, I'm Thomas! Currently a Bachelor's of Software Engineering student at the University of Waterloo, I have a strong aptitude for learning and deep passion for computer science. Since the first line of Visual Basic I wrote to build my own Frogger game, I've now branched out into everything from competive programming, full-stack web dev, AI/ML, and much more. 
-I specialize in backend development, systems architecture, and performance optimization. When I'm not coding, you can find me drinking coffee and pursuing my various hobbies.
-<br>
+Hiya, I'm Thomas! Currently a Bachelor's of Software Engineering student at the University of Waterloo, I have a strong aptitude for learning and deep passion for computer science. Since the first line of Visual Basic I wrote to build my own Frogger game, I've now branched out into everything from competive programming, full-stack web dev, AI/ML, and much more. <br>
 
+I specialize in backend development, systems architecture, and performance optimization. When I'm not coding, you can find me drinking coffee and pursuing my various hobbies. <br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/the_idgiot) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thomas-zhang-022a9b21b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thomaszhangdev@gmail.com) 
