@@ -5,7 +5,7 @@
 - 💪 Programming Languages I use: Python, C++, JavaScript/TypeScript
 - 🔭 I’m currently learning about multi-agent systems and deep learning neural networks
 - 💻 Interests: coding, music, history, stargazing, and cycling
-- ⚡ Fun fact: I dream of going to rural France to complete a Messier Marathon: to see 110 galaxies, nebulae, and star clusters!
+- ⚡ Fun fact: I dream of traveling to rural France to complete a Messier Marathon: to see 110 galaxies, nebulae, and star clusters!
 - 📫 How to reach me: email, or my website
 - ⭐ **My website:** <a href="https://thomaszhang223.github.io/Portfolio-Website/#home">thomaszhang223.github.io</a>
 
